@@ -18,4 +18,6 @@ Security :closed_lock_with_key: |Cloud :cloud:|Python :snake:|Linux :penguin:
 - 📫 How to reach me: raven.spann@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own over 300 vinyl records
--->
+
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nevermore2718) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ravenspann/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nevermore2718.github.io) 

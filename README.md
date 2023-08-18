@@ -6,7 +6,7 @@ Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently work
 
 I have a huge interest in Cyber and Information Security as well as coding. Currently studying for my Security+.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nevermore2718.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/nevermore2718.png">
 
 **Skill**
 

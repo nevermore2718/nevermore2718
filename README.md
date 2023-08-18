@@ -9,7 +9,8 @@ I have a huge interest in Cyber and Information Security as well as coding. Curr
 <img src="https://tryhackme-badges.s3.amazonaws.com/nevermore2718.png" alt="TryHackMe">
 
 **Skill**
-Security :closed_lock_with_key: |Cloud :cloud:|Python :snake:|Linux :penguin:
+
+Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 
 - 🔭 I’m currently working on Coursera Google CyberSecurty Professional Certificate
 - 🌱 I’m currently learning Python

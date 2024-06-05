@@ -2,7 +2,7 @@
 
 ![R](https://github.com/nevermore2718/nevermore2718/assets/135075894/6fadada0-132f-4a5b-9e0c-ad7614183d25)
 
-Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my in Information Technology from Western Govenors University. Go Night Owls!
+Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my in Information Technology from Western Governors University. Go Night Owls!
 
 I am passionate about Cyber and Information Security as well as Cloud computing. Currently studying for my CySA+ certification.
 

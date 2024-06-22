@@ -1,15 +1,15 @@
 ### Hi there 👋
 ![R](https://github.com/nevermore2718/nevermore2718/assets/135075894/212fc43b-bd6b-466c-a46d-faca539dfb23)
 
-Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my in Information Technology from Western Governors University. Go Night Owls!
+Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my degree in Information Technology from Western Governors University. Go Night Owls!
 
-I am passionate about Cyber and Information Security as well as Cloud computing. Currently studying for my CySA+ certification.
+I am passionate about Cyber and Information Security as well as Cloud computing.
 
 ![nevermore2718](https://github.com/nevermore2718/nevermore2718/assets/135075894/6c05976b-efd8-4018-9899-a4371723c829)
 
 Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 
-- 🔭 I’m currently working on Coursera Google CyberSecurty Professional Certificate
+- 🔭 I’m currently studying for the CompTIA CySA+
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my hobbies
@@ -17,7 +17,6 @@ Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own over 300 vinyl records
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nevermore2718) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ravenspann/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nevermore2718.github.io) 
 
 ## Skill
 | Skill                                         | Associated Project         |
@@ -61,15 +60,16 @@ Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 <img src="https://img.shields.io/badge/-Linux%2B-a3cd3f?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cloud_Essentials%2B-ff7e38?&style=for-the-badge&logo=CompTIA&logColor=white" />
 <img src="https://img.shields.io/badge/-Project%2B-f23390?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-IT_Support_Professional-00bfff?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cybersecurity_Professional-008000?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure_Fundamentals-00008b?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security_Compliance_and_Identity_Fundamentals-00008b?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITILv4-470d7d?&style=for-the-badge&logo=AXELOS&logoColor=white" />
 <img src="https://img.shields.io/badge/-CIW_User_Interface_Designer-ffff00?&style=for-the-badge&" />
 <img src="https://img.shields.io/badge/-CIW_Advanced_HTML5_CC3_Specialist-ba55d3?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-CIW_Site_Development_Associate-b22222?&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/-Azure_Fundamentals-00008b?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security_Compliance_and_Identity_Fundamentals-00008b?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+## Certificates
+<img src="https://img.shields.io/badge/-IT_Support_Professional-38761d?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity_Professional-38761d?&style=for-the-badge&logo=Google&logoColor=white" />
 
 ## Projects
 - Detection Lab

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![R](https://github.com/nevermore2718/nevermore2718/assets/135075894/6fadada0-132f-4a5b-9e0c-ad7614183d25)
+(https://github.com/nevermore2718/nevermore2718/assets/135075894/f4fca6a2-ba04-4845-8267-4ac1dfafa33a)
 
 Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my in Information Technology from Western Governors University. Go Night Owls!
 

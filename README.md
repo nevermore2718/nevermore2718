@@ -29,7 +29,7 @@ Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Coming Soon!
 
 ### Network
 <div>

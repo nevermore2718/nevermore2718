@@ -5,7 +5,7 @@ Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently work
 
 I am passionate about Cyber and Information Security as well as Cloud computing.
 
-![nevermore2718](https://github.com/nevermore2718/nevermore2718/assets/135075894/6c05976b-efd8-4018-9899-a4371723c829)
+<img src="https://tryhackme-badges.s3.amazonaws.com/TryHckNevermore.png" alt="Your Image Badge" />
 
 Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 

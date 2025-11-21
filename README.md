@@ -13,42 +13,31 @@ Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my hobbies
-- 📫 How to reach me: raven.spann@outlook.com
+- 📫 Lets Connect: <a href="www.linkedin.com/in/ravenspann">LinkedIn</a>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I own over 300 vinyl records
+- ⚡ Fun fact: I collect records and legos!
   
 
 ## Skill
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab| 
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-Coming Soon!
-
-### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-1D63ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-git-F1502F?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CrowdStrike-D90429?&style=for-the-badge&log=CrowdStrike=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -71,6 +60,11 @@ Coming Soon!
 <img src="https://img.shields.io/badge/-IT_Support_Professional-38761d?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity_Professional-38761d?&style=for-the-badge&logo=Google&logoColor=white" />
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Projects (In Progress)
+| Project | Description |
+| ------- | ----------- | 
+| Malwaere Analysis | Study and analyze malware in a controlld environment to develop defenses against cyber threats |
+| Vulnerability Management | Regularly scan and patch for vulnerabilities to prevent attackers from exploiting them |
+| Packet Sniffer | Capture and analyze data packets as they pass through a network interface to monitor network traffic |
+| SQL Injection | Attack tha aims to invade and manipulate confidential data |
+| Hackathons | Gain experience in offensive security |

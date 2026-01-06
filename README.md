@@ -1,16 +1,16 @@
 ### Hi there 👋
 ![R](https://github.com/nevermore2718/nevermore2718/assets/135075894/212fc43b-bd6b-466c-a46d-faca539dfb23)
 
-Hi there!👋🏻 My name is **Raven Spann**. I'm from the US and currently working towards my degree in Information Technology from Western Governors University. Go Night Owls!
+Hi there!👋🏻 My name is **Raven**. I'm from the US and recenting completed my degree in Information Technology from Western Governors University. Go Night Owls!
 
-I am passionate about Cyber and Information Security as well as Cloud computing.
+I am passionate about technology and expanding my knowledge.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/TryHckNevermore.png" alt="Your Image Badge" />
 
 Security :closed_lock_with_key: | Cloud :cloud:| Python :snake:| Linux :penguin:
 
-- 🔭 I’m currently studying for the CompTIA CySA+
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently studying for the CCNA
+- 🌱 I’m currently learning my way through TryHackMe
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my hobbies
 - 📫 Lets Connect: <a href="www.linkedin.com/in/ravenspann">LinkedIn</a>
